@@ -1,0 +1,1 @@
+"""GeoSentinel-AI backend package."""
